@@ -13,13 +13,25 @@
 ---
 
 ## Screenshots from setup
-#### **Image Example**
+#### **bashrc edits**
 
-![Example placeholder image](./snyderlab.png)
-```bash
-# Example command line code
-echo "Hello, Markdown!"
-```
+![bashrc edits](../../ImageFolders/writeup1/bashrc_edits.png)
+
+#### **docker setup**
+
+![docker setup](../../ImageFolders/writeup1/docker_setup.png)
+
+#### **micromamba**
+
+![micromamba](../../ImageFolders/writeup1/micromamba.png)
+
+#### **nextflow**
+
+![nextflow](../../ImageFolders/writeup1/nextflow.png)
+
+#### **weight bias**
+
+![weight bias](../../ImageFolders/writeup1/weight_bias.png)
 
 ## Answers to SLURM questions
 1. From my understanding, 1 SLURM job is submitted containing 3 tasks
