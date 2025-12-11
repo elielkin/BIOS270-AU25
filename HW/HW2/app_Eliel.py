@@ -7,7 +7,7 @@ from align import compute_alignment, alignment_stats
 # ---------------- Streamlit App ----------------
 st.set_page_config(page_title="Pairwise Sequence Aligner", layout="wide")
 st.image(
-    "https://github.com/elielkin/BIOS270-AU25/blob/de4ab26186dd4ff6dbf400aac0b8aa299128dd08/ImageFolders/HW2/attention_PafA.png?raw=true",
+    "https://github.com/elielkin/BIOS270-AU25/blob/eae5fb0206b6cf69428aaad8e16222533e4d7ab0/ImageFolders/HW2/attention_PafA.png",
     width=150
 )
 st.title("Pairwise Sequence Aligner")
