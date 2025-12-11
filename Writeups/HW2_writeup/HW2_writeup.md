@@ -26,4 +26,4 @@
 2. A
 
 ## Part 3
-
+[SequenceAligner] (https://bios270-au25-eliel-sequencealigner.streamlit.app)
