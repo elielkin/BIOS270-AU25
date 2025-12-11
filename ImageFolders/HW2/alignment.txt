@@ -1,0 +1,5 @@
+>seq1_aligned
+ELIELAKINAMI
+>seq2_aligned
+-DMEIALIM---
+# score=4.0
